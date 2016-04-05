@@ -1,0 +1,27 @@
+django==1.8.5
+django-mptt
+MySQL-python
+Pillow
+PIL
+msgpack-python
+pyzmq
+supervisor
+Jinja2
+gevent
+uwsgi
+xlwt
+django-grappelli
+sse
+django-sse
+sockjs-tornado
+# sockjsproxy
+qrcode
+xlsxwriter
+matplotlib
+djangorestframework
+django_filter
+termcolor
+scrapy
+pycurl
+requests
+django_extensions
